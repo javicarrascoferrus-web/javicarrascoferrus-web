@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="Mi banner" width="100%" />
+  <img src="code.png" alt="Mi banner" width="100%" />
 </p>
 
 <h1 align="center"> ☠️J A V I E R  C A R R A S C O ☠️</h1>
