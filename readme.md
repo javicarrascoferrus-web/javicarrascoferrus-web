@@ -19,7 +19,7 @@
 
 ### 🛠️ Tecnologías que uso
 
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, Canva, WordPress
 - PHP, MySQL  
 - Python
 
