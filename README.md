@@ -1,9 +1,9 @@
-<!-- Banner centrado -->
+
 <p align="center">
   <img src="banner.png" alt="Mi banner" width="100%" />
 </p>
 
-<h1 align="center"> ☠️J A V I E R · G A R C Í A ☠️</h1>
+<h1 align="center"> ☠️J A V I E R  C A R R A S C O ☠️</h1>
 
 <p align="center">
   Desarrollador en formación, apasionado por la natación, el desarrollo web y los videojuegos.
@@ -25,5 +25,5 @@
 
 ### 📫 Cómo contactarme
 
-- ✉️ correo@ejemplo.com  
+- ✉️ javicarrascoferrus@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com)  
