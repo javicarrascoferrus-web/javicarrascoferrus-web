@@ -15,7 +15,7 @@
 
 - 🏊 Me encanta la natación, entreno varias veces a la semana.
 - 💻 Aprendiendo PHP, Python y desarrollo web.
-- 🎮 Me gustan los videojuegos y quiero llegar a crear los míos.
+- 🎮 Me gustan los videojuegos y pasarme horas y horas frente a la pantalla.
 
 ### 🛠️ Tecnologías que uso
 
