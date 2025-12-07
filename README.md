@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- Banner centrado -->
+<p align="center">
+  <img src="banner.png" alt="Mi banner" width="100%" />
+</p>
 
-<!--
-**javicarrascoferrus-web/javicarrascoferrus-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> ☠️J A V I E R · G A R C Í A ☠️</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desarrollador en formación, apasionado por la natación, el desarrollo web y los videojuegos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Sobre mí
+
+- 🏊 Me encanta la natación, entreno varias veces a la semana.
+- 💻 Estoy aprendiendo PHP, Python y desarrollo web.
+- 🎮 Me gustan los videojuegos y quiero llegar a crear los míos.
+
+### 🛠️ Tecnologías que uso
+
+- HTML, CSS, JavaScript  
+- PHP, MySQL  
+- Python
+
+### 📫 Cómo contactarme
+
+- ✉️ correo@ejemplo.com  
+- 🔗 [LinkedIn](https://www.linkedin.com)  
