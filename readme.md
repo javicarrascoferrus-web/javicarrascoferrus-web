@@ -13,7 +13,7 @@
 
 ### ⚡ Sobre mí
 
-- 🏊 Me encanta la natación, entreno varias veces a la semana.
+- 🏊 Me encanta el deporte, en especial la natación que entreno varias veces a la semana.
 - 💻 Aprendiendo PHP, Python y desarrollo web.
 - 🎮 Me gustan los videojuegos y pasarme horas y horas frente a la pantalla.
 
