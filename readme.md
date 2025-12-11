@@ -26,4 +26,4 @@
 ### 📫 Cómo contactarme
 
 - ✉️ javicarrascoferrus@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/javier-carrasco-9211b0356/)  
