@@ -23,7 +23,7 @@
 - PHP, MySQL  
 - Python
 
-### 📫 Cómo contactarme
+### 📫 Contacto
 
 - ✉️ javicarrascoferrus@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/javier-carrasco-9211b0356/)  
